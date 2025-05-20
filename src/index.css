@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import '@fontsource-variable/space-grotesk';
+body {
+  background-color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+}
