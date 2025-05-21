@@ -24,6 +24,6 @@ export const Projects = [
       "Este proyecto fue desarrollado como parte de mi trabajo en LogicOne. Mi rol consistió en el desarrollo frontend con React Vite y a implementación de UI responsive.",
     technologies: ["React", "Vite.js", "Tailwind CSS"],
     liveUrl: "https://www.logicone.com.do",
-    imageUrl: "src/assets/LogiconeWebsite.png?height=200&width=350",
+    imageUrl: "/public/assets/images/LogiconeWebsite.png?height=200&width=350",
   },
 ];
