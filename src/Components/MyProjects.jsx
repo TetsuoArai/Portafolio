@@ -58,7 +58,7 @@ function ProjectCard({ project, index, isVisible }) {
         <img
           src={project.imageUrl || "/placeholder.svg"}
           alt={project.title}
-          className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+          className="w-full h-full object-cover transition-transform duration-500 hover:scale-110 h-[200px] w-[350px]"
         />
       </div>
 
