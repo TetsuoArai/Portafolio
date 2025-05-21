@@ -106,7 +106,7 @@ const VARIANTS = {
   blue: {
     activeColor: "#e0f2fe",
     gap: 4,
-    speed: 80,
+    speed: 50,
     colors: "#e0f2fe,#7dd3fc,#0ea5e9",
     noFocus: true,
   },
@@ -148,7 +148,7 @@ const VARIANTS = {
   typescript: {
     activeColor: "#2b7489",
     gap: 4,
-    speed: 80,
+    speed: 1000,
     colors: "#2b7489,#4fd1c5,#51bcff",
     noFocus: true,
   },

@@ -95,11 +95,11 @@ export const MySkills = () => {
                     index={index}
                   >
                     <motion.div className="flex justify-center items-center w-full h-full absolute group">
-                      <div className="relative flex flex-col items-center group">
+                      <div className="relative w-full text-center flex flex-col items-center group">
                         <div className="w-[60px] h-[60px] transition-transform duration-300 group-hover:-translate-y-2">
                           <img src={`./assets/icons/${pathIcon}`} />
                         </div>
-                        <motion.strong className="absolute top-[60px] text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
+                        <motion.strong className="absolute top-[60px] w-full text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
                           {name}
                         </motion.strong>
                       </div>
