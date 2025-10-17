@@ -25,4 +25,13 @@ export const Projects = [
     liveUrl: "https://www.logicone.com.do",
     imageUrl: "./assets/images/LogiconeWebsite.png",
   },
+  {
+        id: 4,
+    title: "AprobadoRD",
+    description:
+      "Este proyecto fue desarrollado como parte de mi trabajo en Precisa. Mi rol consistió tanto en el desarrollo frontend y backend con NextJS",
+    technologies: ["NextJS", "PostgreSQL", "Boostrap"],
+    liveUrl: "https://aprobadord.com",
+    imageUrl: "./assets/images/aprobado.png",
+  }
 ];
